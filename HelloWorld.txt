@@ -2,8 +2,4 @@ This is a tester.
 
 Why are we testing? To make a Github repository.
 
-<<<<<<< HEAD
 And additionally to test version changes, like here!
-=======
-And additionally to test version changes and check for conflicts, such as this new edit on line 5 to be done locally as well.
->>>>>>> b90a9fa044be9d7f3d1452ccbe04900f13823bb8
