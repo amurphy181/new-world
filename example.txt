@@ -1,0 +1,1 @@
+Checking to see how adding a new text file changes the git status.
